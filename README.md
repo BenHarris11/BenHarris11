@@ -1,6 +1,6 @@
 # Hi, I'm Ben Harris
 
-Computer Engineering student (Embedded Systems) at Cal Poly San Luis Obispo,
+Computer Engineering student at Cal Poly San Luis Obispo,
 graduating Spring 2028. I build embedded firmware and the protocols and apps
 around it — currently the sole engineer behind **Kyntex**, a wearable-sensing
 startup I co-founded.
@@ -33,14 +33,6 @@ I'm also running a smaller research testbench,
 **Passive Tendon-Response Sensing**, exploring whether a landing can passively
 excite the patellar tendon in a way an accelerometer can detect — early-stage,
 honestly scoped, and not a claim about injury risk or diagnosis.
-
-## Currently
-
-- Reading and rebuilding fluency in C by going line-by-line through my own
-  firmware — pointers, structs, bit manipulation, and the syntax patterns that
-  show up in real embedded code, not just textbook examples
-- Working through data structures & algorithms for technical interview prep
-- Applying for embedded software / firmware internships for Summer 2026
 
 ## Technical toolbox
 
