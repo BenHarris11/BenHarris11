@@ -36,7 +36,7 @@ honestly scoped, and not a claim about injury risk or diagnosis.
 
 ## Technical toolbox
 
-`C` `C++` `Python` `Zephyr RTOS` `nRF Connect SDK` `Nordic nRF54L15 / nRF52`
+`C` `Python` `Zephyr RTOS` `nRF Connect SDK` `Nordic nRF54L15 / nRF52`
 `STM32` `BLE GATT` `SPI` `I2C` `UART` `ADC` `KiCad` `Altium` `SwiftUI`
 `CoreBluetooth` `Web Bluetooth` `Git`
 
