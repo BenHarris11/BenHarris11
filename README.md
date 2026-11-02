@@ -40,11 +40,7 @@ honestly scoped, and not a claim about injury risk or diagnosis.
 `STM32` `BLE GATT` `SPI` `I2C` `UART` `ADC` `KiCad` `Altium` `SwiftUI`
 `CoreBluetooth` `Web Bluetooth` `Git`
 
-## Elsewhere
-
-- [LinkedIn](https://linkedin.com/in/benjaharris)
-- [Kyntex-org](https://github.com/Kyntex-org) — the organization behind Kyntex
 
 ---
-*Kyntex is an engineering prototype, not a medical device. It is not intended
+*The Kyntex band is not a medical device. It is not intended
 to diagnose, treat, prevent, or predict injury.*
