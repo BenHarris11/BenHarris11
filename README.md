@@ -7,7 +7,7 @@ startup I co-founded.
 
 ## What I'm building
 
-**[Kyntex](https://github.com/Kyntex-org/Kyntex)** — a wearable platform for
+**[Kyntex](https://github.com/Kyntex-org)** — a wearable platform for
 training telemetry you can actually trust. Most wearables show attractive
 charts without answering whether the device was fitted correctly or whether a
 session was captured without silent data loss. I designed and built the whole
