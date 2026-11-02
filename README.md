@@ -13,8 +13,8 @@ charts without answering whether the device was fitted correctly or whether a
 session was captured without silent data loss. I designed and built the whole
 stack to answer both:
 
-- **Firmware** — Nordic nRF54L15 running Zephyr RTOS: event-driven IMU
-  acquisition, band-fit sensing, battery monitoring, and an on-device workout
+- **Firmware** — Nordic nRF54L15 running Zephyr RTOS: timed IMU acquisition,
+  band-fit sensing, battery monitoring, and an on-device workout
   engine that classifies activity and counts steps, jumps, and mechanical load
 - **Protocol** — a custom, versioned binary BLE contract with checksums and
   recording-integrity counters (boot ID, session ID, packet/sample sequence,
